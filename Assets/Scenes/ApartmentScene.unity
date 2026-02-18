@@ -2664,6 +2664,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: Structure_02
       objectReference: {fileID: 0}
+    - target: {fileID: 4698246548104830871, guid: 8335ae8e4aa24104db6eb62c19f15514, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0.013
+      objectReference: {fileID: 0}
+    - target: {fileID: 4698246548104830871, guid: 8335ae8e4aa24104db6eb62c19f15514, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0.001
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
